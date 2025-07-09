@@ -34,11 +34,11 @@ module.exports = {
   /**
    * 是否显示设置的底部信息
    */
-  showFooter: true,
+  // showFooter: true,
   /**
    * 底部文字，支持html语法
    */
-  footerTxt: '© 2018-2022 Zheng Jie <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License 2.0</a>',
+  // footerTxt: '© 2018-2022 Zheng Jie <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License 2.0</a>',
   /**
    * 备案号
    */
